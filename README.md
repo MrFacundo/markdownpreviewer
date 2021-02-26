@@ -2,6 +2,10 @@
 
 Project built as a part of the [Freecodecamp Front End Development Libraries Projects](https://www.freecodecamp.org/learn/front-end-libraries/#front-end-libraries-projects).
 
+## Live demo
+
+https://mrfacundo.github.io/markdownpreviewer/
+
 ## Description
 
 This app allows to preview [markdown text](https://daringfireball.net/projects/markdown/), as well as its HTML conversion.
