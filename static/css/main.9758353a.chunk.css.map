@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACC,sBACD,CAEA,GACC,2CACD,CAEA,0BACC,WACC,cACD,CACD","file":"main.9758353a.chunk.css","sourcesContent":["html {\n\tscroll-behavior: smooth;\n}\n\nh4 {\n\tfont-family: \"Courier New\", Courier, monospace;\n}\n\n@media (min-width: 1200px) {\n\t.container {\n\t\tmin-width: 90vw;\n\t}\n}\n"]}
